@@ -1,0 +1,16 @@
+.blogppal{
+    color: red;
+    background: yellow;
+}
+
+.blogsec{
+    color: black;
+    background: cyan;
+    margin: 50px;
+    margin-left: 0px;
+}
+
+h4{
+    color: blue;
+    text-decoration-line: underline;
+}
